@@ -9,7 +9,7 @@ Welcome to my GitHub playground! I'm Gouranga Khande, a data engineer with a pas
 - Building and optimizing data warehouses and data lakes
 - Proficiency in big data technologies (Hadoop, Spark, Kafka)
 - Data modeling and database management (SQL, NoSQL)
-- Cloud platforms (AWS, Azure, GCP)
+- Cloud platforms (AWS, Azure)
 - Real-time data processing and streaming (Kinesis, Kafka Streams)
 - Data visualization and reporting (Tableau, Power BI)
 - Version control and CI/CD (Git, Jenkins)
@@ -46,6 +46,6 @@ Welcome to my GitHub playground! I'm Gouranga Khande, a data engineer with a pas
 
 ## Let's Connect 🌟
 
-I'm always excited about new collaborations and opportunities! Feel free to reach out to me via [Email](mailto:venkatakhande63@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/gourangakhande/).
+I'm always excited about new collaborations and opportunities! Feel free to reach out to me via [Email](mailto:venkatakhande63@gmail.com)
 
 Let's turn data into insights and ideas into reality! 💡
